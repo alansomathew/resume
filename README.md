@@ -1,14 +1,17 @@
 # Portfolio Website
-This is my personal portfolio website, showcasing my skills, experience, and projects. The website is built using HTML, CSS, and JavaScript, and is hosted on GitHub Pages.
+This is my personal portfolio website, showcasing my skills, experience, and projects. The website is built using HTML, CSS, and JavaScript, and is hosted on [GitHub Pages.](https://pages.github.com/)
 
-Table of Contents
-Features
-Installation
-Usage
-Technologies Used
-Contributing
-License
-Features
+## Table of Contents
+#### Features
+#### Installation
+#### Usage
+#### Technologies Used
+#### Contributing
+#### License
+
+
+## Features
+
 Clean, modern design that is responsive and works on desktop and mobile devices
 Home page with a brief introduction and links to my social media profiles
 About page with my professional background, skills, and interests
