@@ -30,8 +30,8 @@ Then, follow these steps:
 1.Clone this repository by running the following command in your terminal or command prompt:
   ```
     git clone https://github.com/your-username/your-portfolio.git.
+    
     ```
- 
 Navigate to the project directory by running the command: cd your-portfolio.
 Open the index.html file in your web browser.
 Usage
