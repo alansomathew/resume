@@ -29,7 +29,7 @@ Then, follow these steps:
 
 1.Clone this repository by running the following command in your terminal or command prompt:
   ```
-git clone https://github.com/alansomathew/resume.git
+git clone https://github.com/your-username/your-portfolio.git
   ```
 
 2.Navigate to the project directory by running the command: 
@@ -49,6 +49,8 @@ This website is built using the following technologies:
 ##### HTML
 ##### CSS
 ##### JavaScript
+##### Formspree (for contact form submission)
+##### GitHub Pages (for hosting)
 
 ## Contributing
 
