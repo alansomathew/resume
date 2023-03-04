@@ -29,7 +29,7 @@ Then, follow these steps:
 
 1.Clone this repository by running the following command in your terminal or command prompt:
   ```
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/alansomathew/resume.git
   ```
 
 2.Navigate to the project directory by running the command: 
@@ -64,7 +64,7 @@ To deploy your own website using GitHub Pages, follow these steps:
 
 2.Clone the repository to your local machine by running the command: 
 ```
-git clone https://github.com/your-username/your-username.github.io.git.
+git clone https://github.com/alansomathew/resume.git.
 ```
 3.Create a new branch called gh-pages by running the command:
 ```
