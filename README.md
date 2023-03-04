@@ -29,7 +29,7 @@ Then, follow these steps:
 
 1.Clone this repository by running the following command in your terminal or command prompt:
   ```
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/alansomathew/resume.git
   ```
 
 2.Navigate to the project directory by running the command: 
