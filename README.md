@@ -31,7 +31,6 @@ Then, follow these steps:
   ```
     git clone https://github.com/your-username/your-portfolio.git.
     
-    ```
 Navigate to the project directory by running the command: cd your-portfolio.
 Open the index.html file in your web browser.
 Usage
