@@ -13,14 +13,21 @@ This is my personal portfolio website, showcasing my skills, experience, and pro
 ## Features
 
 Clean, modern design that is responsive and works on desktop and mobile devices
-Home page with a brief introduction and links to my social media profiles
-About page with my professional background, skills, and interests
-Projects page with a list of my projects, including descriptions, screenshots, and links to the source code and live demos
-Contact page with a form to send me a message
-Installation
-To run this website locally, you need to have a web browser installed on your computer. Then, follow these steps:
 
-Clone this repository by running the following command in your terminal or command prompt: git clone https://github.com/your-username/your-portfolio.git.
+Home page with a brief introduction and links to my social media profiles
+
+About page with my professional background, skills, and interests
+
+Projects page with a list of my projects, including descriptions, screenshots, and links to the source code and live demos
+
+Contact page with a form to send me a message
+
+## Installation
+To run this website locally, you need to have a web browser installed on your computer. 
+Then, follow these steps:
+
+Clone this repository by running the following command in your terminal or command prompt:
+ git clone https://github.com/your-username/your-portfolio.git.
 Navigate to the project directory by running the command: cd your-portfolio.
 Open the index.html file in your web browser.
 Usage
