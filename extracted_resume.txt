@@ -1,0 +1,113 @@
+Alanso Mathew
++91 8956448235 | alansomathew10@gmail.com | linkedin.com/in/alansomathew | github.com/alansomathew |
+Portfolio
+Kerala, India
+
+Professional Summary
+Full Stack Python Developer with 4+ years of experience designing and deploying scalable web applications,
+RESTful APIs, and cross-platform mobile solutions. Proficient in Python, Django, React.js, PostgreSQL,
+AWS, and Docker. Delivered production systems serving 5,000+ concurrent users with 99.9% uptime, reduced
+database latency by 35%, and cut deployment times by 60% through CI/CD automation. Experienced in
+agile development, microservices architecture, and AI-integrated workflows. Passionate about backend system
+design, cloud-native patterns, and building high-impact products at scale.
+
+Technical Skills
+Languages: Python, JavaScript (ES6+), SQL, Dart
+Backend: Django, Django REST Framework, FastAPI, Flask, RESTful APIs, Microservices
+Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+Mobile: Flutter (iOS & Android cross-platform)
+Databases: PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Redis
+Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, GitHub Actions, CI/CD, Nginx
+Testing & Tools: PyTest, Unit Testing, Git, Linux, Celery, Agile/Scrum
+Concepts: System Design, Database Optimization, API Architecture, Performance Tuning, AI-Integrated Workflows
+
+Professional Experience
+Software Engineer – Django / Full Stack
+
+Aug 2022 – Present
+
+CHRIST University, Lavasa
+Pune, Maharashtra, India
+– Architected and delivered 10+ internal web and mobile applications powering university operations, improving
+departmental efficiency by up to 40% across academic and administrative functions.
+– Designed and maintained 25+ production-grade REST APIs using Django REST Framework, reducing average
+API response time by 40% through payload optimization and efficient serialization.
+– Engineered Django applications serving 5,000+ concurrent users at 99.9% uptime, implementing robust error
+handling, caching strategies with Redis, and background task queues with Celery.
+– Optimized PostgreSQL database schemas and query performance through strategic indexing, query refactoring,
+and connection pooling – reducing system latency by 35%.
+– Built and deployed containerized microservices using Docker on AWS (EC2, S3, RDS), enabling horizontal
+scaling and achieving zero-downtime deployments.
+– Implemented CI/CD pipelines using GitHub Actions, cutting deployment cycle times by 60% and increasing
+production release frequency with automated testing gates.
+– Developed cross-platform mobile applications using Flutter, eliminating the need for separate iOS and Android
+codebases and reducing mobile development overhead by 50%.
+– Built interactive front-end components with React.js, enhancing user engagement and measurably reducing page
+bounce rates.
+– Led debugging, profiling, and testing initiatives, reducing post-deployment bug incidents by 35% through
+systematic code reviews, unit tests with PyTest, and load testing.
+– Collaborated cross-functionally with UI/UX designers and product stakeholders in agile sprints, consistently
+delivering features on schedule.
+
+Senior Software Trainee – Python/Django
+Progressive Software Solutions & Training
+
+Jan 2022 – Jul 2022
+Muvattupuzha, Kerala, India
+
+– Contributed to the development and deployment of client-facing web applications using Django and React,
+applying best practices for maintainability and scalability.
+– Architected reusable backend modules that improved code maintainability and reduced future development
+cycles for common use cases.
+– Mentored 100+ students on Django, full stack development, and professional coding standards through
+structured training sessions.
+– Improved relational database schemas and component libraries to accelerate feature delivery and reduce
+technical debt.
+– Participated in peer code reviews and QA cycles alongside senior engineers, enforcing adherence to coding
+standards and performance benchmarks.
+
+Software Trainee – Django Developer
+
+Aug 2021 – Dec 2021
+
+Progressive Software Solutions & Training
+Muvattupuzha, Kerala, India
+– Implemented backend features using Django and PostgreSQL, including third-party API integrations and unit
+test coverage.
+– Designed and delivered foundational web development training programs on Django, HTML/CSS, and
+JavaScript for individual and group learners.
+– Created and maintained educational materials, continuously improving learning outcomes through participant
+feedback and industry trend analysis.
+
+Key Projects
+MentorEezy – Mentoring Management Platform | Django, DRF, PostgreSQL, React, AWS
+– Built a multi-role web platform (mentor, mentee, admin) with goal tracking, session scheduling, and reporting
+dashboards – improving mentoring program efficiency by 30%.
+– Designed scalable RESTful APIs with role-based access control (RBAC), deployed on AWS with auto-scaling
+and Nginx reverse proxy.
+Locally Away – E-Commerce Platform | Django, React.js, PostgreSQL, Stripe, AWS
+– Engineered a full-featured e-commerce backend with Stripe payment integration, order lifecycle management,
+and inventory tracking.
+– Deployed with AWS auto-scaling groups and S3 media storage, ensuring high availability under variable traffic
+loads.
+Wallet View – Personal Finance Analytics App | Django REST APIs, Firebase, React
+– Developed an analytics backend serving 1,000+ active users, featuring real-time data synchronization via
+Firebase and spending trend visualizations.
+– Designed modular API architecture enabling seamless future feature extensions without breaking existing
+integrations.
+
+Education
+Bachelor of Computer Applications (BCA)
+Mahatma Gandhi University
+
+Jun 2018 – Jul 2021
+Kerala, India
+
+Certifications
+Meta Frontend Developer Professional Certificate – Coursera (2023)
+Flutter Development Certification – Udemy (2022)
+JavaScript Intermediate, Python Basics, SQL Intermediate, Problem Solving Intermediate –
+HackerRank
+AWS Cloud Practitioner – In Progress
+
+

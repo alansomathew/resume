@@ -62,8 +62,8 @@ body.hidden-scrolling {
     outline: none;
 }
 
- :before,
- :after {
+:before,
+:after {
     box-sizing: border-box;
 }
 
@@ -230,26 +230,31 @@ img {
     0% {
         transform: rotate(0deg);
     }
+
     100% {
         transform: rotate(360deg);
     }
 }
 
 @keyframes topBounce {
+
     0%,
     100% {
         transform: translateY(0);
     }
+
     50% {
         transform: translateY(25px);
     }
 }
 
 @keyframes leftBounce {
+
     0%,
     100% {
         transform: translateX(0);
     }
+
     50% {
         transform: translateX(25px);
     }
@@ -260,6 +265,7 @@ img {
         opacity: 0;
         transform: translateY(-25px);
     }
+
     100% {
         opacity: 1;
         transform: translateY(0px);
@@ -340,10 +346,12 @@ img {
 }
 
 @keyframes loaderAni {
+
     0%,
     100% {
         transform: translateY(0);
     }
+
     50% {
         transform: translateY(-30px);
     }
@@ -454,6 +462,7 @@ img {
     0% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
@@ -584,13 +593,15 @@ img {
     max-width: 450px;
     display: block;
     margin: auto;
-    border-radius: 50%;
+    border-radius: 5px !important;
     padding: 15px;
 }
 
 .home-section .home-img .img-box img {
-    width: 100%;
-    border-radius: 50%;
+    width: 400px !important;
+    height: 400px !important;
+    object-fit: cover !important;
+    border-radius: 5px !important;
     border: 10px solid transparent;
 }
 
@@ -752,8 +763,9 @@ img {
 }
 
 .about-section .education,
-.about-section .experience {
-    padding-bottom: 80px;
+.about-section .experience,
+.about-section .certifications {
+    padding-bottom: 80px !important;
 }
 
 .about-section .timeline {
@@ -1402,4 +1414,20 @@ img {
     max-width: 100%;
     text-align: right;
     padding: 0 15px;
+}
+
+/* Final Layout Refinements */
+section#home .home-img .img-box,
+section#home .home-img .img-box img {
+    border-radius: 5px !important;
+}
+
+section#home .home-img .img-box img {
+    width: 400px !important;
+    height: 400px !important;
+    object-fit: cover !important;
+}
+
+section#about div.certifications.tab-content {
+    padding-bottom: 80px !important;
 }
